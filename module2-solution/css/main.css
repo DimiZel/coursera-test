@@ -14,7 +14,6 @@ header{
 
 .section{
 	float: left;
-	border: 2px solid black;
 	background-color: #d6cadd;
 	padding: 5px;
 }
