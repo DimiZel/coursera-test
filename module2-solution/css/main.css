@@ -10,6 +10,7 @@ header{
 .section{
 	float: left;
 	border: 2px black;
+	margin: 5px;
 	background-color: #d6cadd;
 }
 
