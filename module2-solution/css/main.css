@@ -1,8 +1,11 @@
+*{
+	box-sizing: border-box;
+}
+
 body{
 	font-family: "Open Sans", "Sans Serif";
 	font-size: 22px;
 	width: 100%;
-	box-sizing: border-box;
 }
 header{
 	font-size: 175%;
