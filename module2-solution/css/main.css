@@ -1,0 +1,61 @@
+body{
+	font-family: "Open Sans", "Sans Serif";
+	font-size: 22px;
+}
+header{
+	font-size: 175%;
+}
+
+.section{
+	float: left;
+	border: 2px black
+}
+
+@media (min-width: 992px){
+	/* Desktop view-->*/
+	.section{
+		width: 33%;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+	/*Tablet view*/
+	.section{
+		width: 50%;
+	}
+
+	#section3{
+		width: 100%;
+	}
+}
+
+@media (max-width: 767px){
+	.section{
+		width: 100%
+	}
+}
+
+.titleregion{
+	float: right;
+	font-size: 120%;
+	border: 1px black;
+}
+
+.textbody{
+	float: left;
+	clear: right;
+	background-color: #d6cadd;
+	margin: 5px;
+}
+
+#title1{
+	background-color: #003153;
+}
+
+#title2{
+	background-color: #8fbc8f;
+}
+
+#title3{
+	background-color: #d68a59
+}
