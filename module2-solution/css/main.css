@@ -58,7 +58,7 @@ header{
 .textbody{
 	float: left;
 	clear: right;
-	margin: 5px;
+	padding: 10px;
 }
 
 #title1{
