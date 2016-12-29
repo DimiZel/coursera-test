@@ -2,6 +2,7 @@ body{
 	font-family: "Open Sans", "Sans Serif";
 	font-size: 22px;
 	width: 100%;
+	padding: 5px;
 }
 header{
 	font-size: 175%;
@@ -11,7 +12,6 @@ header{
 .section{
 	float: left;
 	border: 2px black;
-	margin: 5px;
 	background-color: #d6cadd;
 }
 
